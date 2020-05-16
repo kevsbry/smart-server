@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/smart-server/static/css/main.32081871.chunk.css",
+    "main.js": "/smart-server/static/js/main.1086571f.chunk.js",
+    "main.js.map": "/smart-server/static/js/main.1086571f.chunk.js.map",
+    "runtime-main.js": "/smart-server/static/js/runtime-main.bce5f1ea.js",
+    "runtime-main.js.map": "/smart-server/static/js/runtime-main.bce5f1ea.js.map",
+    "static/js/2.6dfe62ac.chunk.js": "/smart-server/static/js/2.6dfe62ac.chunk.js",
+    "static/js/2.6dfe62ac.chunk.js.map": "/smart-server/static/js/2.6dfe62ac.chunk.js.map",
+    "index.html": "/smart-server/index.html",
+    "precache-manifest.1d5752c734d6e56bd4b670d406c2a887.js": "/smart-server/precache-manifest.1d5752c734d6e56bd4b670d406c2a887.js",
+    "service-worker.js": "/smart-server/service-worker.js",
+    "static/css/main.32081871.chunk.css.map": "/smart-server/static/css/main.32081871.chunk.css.map",
+    "static/js/2.6dfe62ac.chunk.js.LICENSE.txt": "/smart-server/static/js/2.6dfe62ac.chunk.js.LICENSE.txt",
+    "static/media/app_store.svg": "/smart-server/static/media/app_store.878d3517.svg",
+    "static/media/App.css": "/smart-server/static/media/background.1d768c80.svg",
+    "static/media/style.module.css": "/smart-server/static/media/background2.d3523ebf.svg",
+    "static/media/cloud_storage.svg": "/smart-server/static/media/cloud_storage.273e5ba2.svg",
+    "static/media/iphone_db.svg": "/smart-server/static/media/iphone_db.ea5416fd.svg",
+    "static/media/laptop.svg": "/smart-server/static/media/laptop.4939e8a1.svg",
+    "static/media/main_logo.svg": "/smart-server/static/media/main_logo.2f7bac3d.svg",
+    "static/media/multi_browser.svg": "/smart-server/static/media/multi_browser.71351f0c.svg",
+    "static/media/no_wifi.svg": "/smart-server/static/media/no_wifi.c09d6763.svg",
+    "static/media/platform.svg": "/smart-server/static/media/platform.7311524b.svg",
+    "static/media/platform_mobile.svg": "/smart-server/static/media/platform_mobile.cd80d8da.svg",
+    "static/media/play_store.svg": "/smart-server/static/media/play_store.60bb7a15.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bce5f1ea.js",
+    "static/js/2.6dfe62ac.chunk.js",
+    "static/css/main.32081871.chunk.css",
+    "static/js/main.1086571f.chunk.js"
+  ]
+}
