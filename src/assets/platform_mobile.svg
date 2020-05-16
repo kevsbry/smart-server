@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="386" height="619" viewBox="0 0 386 619">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1bb3ec"/>
+      <stop offset="1" stop-color="#5c69e3"/>
+    </linearGradient>
+  </defs>
+  <g id="KEY_FEATURES" data-name="KEY FEATURES" transform="translate(-14 -2193)">
+    <g id="android_phone" data-name="android phone" transform="translate(177 2234)">
+      <g id="Path_28" data-name="Path 28" fill="none">
+        <path d="M7.385,0H52.615C56.694,0,60,3.582,60,8v96c0,4.418-3.306,8-7.385,8H7.385C3.306,112,0,108.418,0,104V8C0,3.582,3.306,0,7.385,0Z" stroke="none"/>
+        <path d="M 7.384616851806641 3 C 4.966934204101563 3 3 5.24298095703125 3 8 L 3 104 C 3 106.7570190429688 4.966934204101563 109 7.384616851806641 109 L 52.61538314819336 109 C 55.03306579589844 109 57 106.7570190429688 57 104 L 57 8 C 57 5.24298095703125 55.03306579589844 3 52.61538314819336 3 L 7.384616851806641 3 M 7.384616851806641 0 L 52.61538314819336 0 C 56.69380187988281 0 60 3.581718444824219 60 8 L 60 104 C 60 108.4182815551758 56.69380187988281 112 52.61538314819336 112 L 7.384616851806641 112 C 3.306198120117188 112 0 108.4182815551758 0 104 L 0 8 C 0 3.581718444824219 3.306198120117188 0 7.384616851806641 0 Z" stroke="none" fill="#fff"/>
+      </g>
+      <path id="Rectangle_7" data-name="Rectangle 7" d="M5,0H55a5,5,0,0,1,5,5V5a0,0,0,0,1,0,0H0A0,0,0,0,1,0,5V5A5,5,0,0,1,5,0Z" transform="translate(0 2)" fill="#fff"/>
+      <path id="Rectangle_8" data-name="Rectangle 8" d="M7,0H53a7,7,0,0,1,7,7V7a0,0,0,0,1,0,0H0A0,0,0,0,1,0,7V7A7,7,0,0,1,7,0Z" transform="translate(60 112) rotate(180)" fill="#fff"/>
+    </g>
+    <g id="Group_1" data-name="Group 1" transform="translate(-617.772 289.459)">
+      <path id="Icon_awesome-cloud" data-name="Icon awesome-cloud" d="M125.564,47.7a22.449,22.449,0,0,0-20.927-30.5,22.308,22.308,0,0,0-12.449,3.784A37.373,37.373,0,0,0,22.422,39.62c0,.631.023,1.261.047,1.892a33.642,33.642,0,0,0,11.164,65.375h85.952A29.894,29.894,0,0,0,125.564,47.7Z" transform="translate(750 2145.75)" fill="#fff"/>
+      <g id="Icon_awesome-database" data-name="Icon awesome-database" transform="translate(811.305 2191.072)" opacity="0">
+        <path id="Icon_awesome-database-2" data-name="Icon awesome-database" d="M27.364,5.578V9.064c0,3.072-6.128,5.578-13.682,5.578S0,12.137,0,9.064V5.578C0,2.506,6.128,0,13.682,0S27.364,2.506,27.364,5.578Zm0,7.844v7.844c0,3.072-6.128,5.578-13.682,5.578S0,24.339,0,21.267V13.422c2.939,2.528,8.32,3.7,13.682,3.7S24.424,15.95,27.364,13.422Zm0,12.2v7.844c0,3.072-6.128,5.578-13.682,5.578S0,36.541,0,33.469V25.624c2.939,2.528,8.32,3.7,13.682,3.7S24.424,28.152,27.364,25.624Z" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <g id="laptop" transform="translate(14 2657)">
+      <g id="Rectangle_3" data-name="Rectangle 3" transform="translate(11)" fill="none" stroke="#fff" stroke-width="6">
+        <path d="M8,0h98a8,8,0,0,1,8,8V79a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V8A8,8,0,0,1,8,0Z" stroke="none"/>
+        <path d="M8,3h98a5,5,0,0,1,5,5V73a3,3,0,0,1-3,3H6a3,3,0,0,1-3-3V8A5,5,0,0,1,8,3Z" fill="none"/>
+      </g>
+      <g id="Path_17" data-name="Path 17" transform="translate(0 73)" fill="none">
+        <path d="M1.283,0H134.717C135.426,0,136,.9,136,2V5c0,6.627-3.447,12-7.7,12H7.7C3.447,17,0,11.627,0,5V2C0,.9.574,0,1.283,0Z" stroke="none"/>
+        <path d="M 6.038238525390625 6 C 6.267501831054688 8.969756126403809 7.45751953125 10.77475357055664 7.698104858398438 11 L 127.9714202880859 11.06261348724365 C 128.5103607177734 10.78082656860352 129.7294769287109 8.970649719238281 129.9614562988281 6 L 6.038238525390625 6 M 1.28302001953125 0 L 134.7169647216797 0 C 135.4255676269531 0 136 0.8954315185546875 136 2 L 136 5 C 136 11.62740898132324 132.5534210205078 17 128.3018798828125 17 L 7.698104858398438 17 C 3.446563720703125 17 -1.52587890625e-05 11.62740898132324 -1.52587890625e-05 5 L -1.52587890625e-05 2 C -1.52587890625e-05 0.8954315185546875 0.5744171142578125 0 1.28302001953125 0 Z" stroke="none" fill="#fff"/>
+      </g>
+    </g>
+    <g id="iphone_server" data-name="iphone server" transform="translate(189 2642)">
+      <g id="iphone_server-2" data-name="iphone server">
+        <g id="Rectangle_2" data-name="Rectangle 2" fill="none" stroke="#fff" stroke-width="3">
+          <rect width="55" height="105" rx="8" stroke="none"/>
+          <rect x="1.5" y="1.5" width="52" height="102" rx="6.5" fill="none"/>
+        </g>
+      </g>
+      <line id="Line_1" data-name="Line 1" x2="16" transform="translate(19.5 97.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="3"/>
+      <path id="Union_1" data-name="Union 1" d="M4.474,3.862V0h15.1V.024H24S23.612,3.751,21.75,3.8c-1.5.042-2.024.054-2.174.058H4.474ZM2.25,3.8C.388,3.751,0,.024,0,.024H4.474V3.862S4.112,3.856,2.25,3.8Z" transform="translate(15.751 2.804)" fill="#fff" stroke="#fff" stroke-width="1"/>
+    </g>
+    <g id="small_imac" data-name="small imac" transform="translate(4 86)">
+      <g id="Rectangle_14" data-name="Rectangle 14" transform="translate(280 2561)" fill="none" stroke="#fff" stroke-width="4">
+        <rect width="116" height="79" rx="8" stroke="none"/>
+        <rect x="2" y="2" width="112" height="75" rx="6" fill="none"/>
+      </g>
+      <line id="Line_27" data-name="Line 27" x2="111" transform="translate(282.5 2621.5)" fill="none" stroke="#fff" stroke-width="4"/>
+      <circle id="Ellipse_4" data-name="Ellipse 4" cx="4" cy="4" r="4" transform="translate(334 2626)" fill="#fff"/>
+      <path id="Path_29" data-name="Path 29" d="M2322.872,2637.835s-1.967,5.5-4.476,11.458c-2.018,4.794-4.489,10.011-6.214,11.634.046.02,35.631,0,35.631,0s-10.883-18.975-8.334-24.269" transform="translate(-1992)" fill="none" stroke="#fff" stroke-width="4"/>
+    </g>
+    <line id="Line_28" data-name="Line 28" y2="102" transform="translate(207.5 2338.5)" fill="none" stroke="#fff" stroke-width="2"/>
+    <line id="Line_29" data-name="Line 29" y2="84" transform="translate(82.5 2577.5)" fill="none" stroke="#fff" stroke-width="2"/>
+    <line id="Line_31" data-name="Line 31" y2="113" transform="translate(216.5 2534.5)" fill="none" stroke="#fff" stroke-width="2"/>
+    <line id="Line_30" data-name="Line 30" y2="49" transform="translate(197.5 2528.5)" fill="none" stroke="#fff" stroke-width="2"/>
+    <line id="Line_34" data-name="Line 34" y2="49" transform="translate(235.5 2530.5)" fill="none" stroke="#fff" stroke-width="2"/>
+    <path id="Path_30" data-name="Path 30" d="M0,0V116.994" transform="translate(198.494 2577.5) rotate(90)" fill="none" stroke="#fff" stroke-width="2"/>
+    <path id="Path_31" data-name="Path 31" d="M0,0V107.994" transform="translate(343.494 2578.5) rotate(90)" fill="none" stroke="#fff" stroke-width="2"/>
+    <text id="SMART_SERVER" data-name="SMART SERVER" transform="translate(151 2193)" fill="#fff" font-size="16" font-family="SegoeUI-Semilight, Segoe UI" font-weight="300"><tspan x="0" y="17">SMART SERVER</tspan></text>
+    <text id="CONNECT_FROM_ANY_DEVICE" data-name="CONNECT FROM ANY DEVICE" transform="translate(101 2781)" fill="#fff" font-size="16" font-family="SegoeUI-Semilight, Segoe UI" font-weight="300"><tspan x="0" y="17">CONNECT FROM ANY DEVICE</tspan></text>
+  </g>
+</svg>

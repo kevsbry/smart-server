@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="173" height="341" viewBox="0 0 173 341">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2f93eb"/>
+      <stop offset="1" stop-color="#189dcf"/>
+    </linearGradient>
+  </defs>
+  <g id="iphone_db" data-name="iphone db" transform="translate(-874 -1282)">
+    <g id="iphone_server" data-name="iphone server" transform="translate(874 1282)">
+      <g id="iphone_server-2" data-name="iphone server">
+        <g id="Rectangle_2" data-name="Rectangle 2" fill="#ebf9ff" stroke="#707070" stroke-width="6">
+          <rect width="173" height="341" rx="25" stroke="none"/>
+          <rect x="3" y="3" width="167" height="335" rx="22" fill="none"/>
+        </g>
+      </g>
+      <line id="Line_1" data-name="Line 1" x2="86" transform="translate(43.5 323.5)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="6"/>
+      <path id="Union_1" data-name="Union 1" d="M18.457,10.862V0H80.751V.068H99S97.4,10.55,89.719,10.7c-6.168.118-8.348.153-8.967.162v0ZM9.282,10.7C1.6,10.55,0,.068,0,.068H18.457V10.862S16.963,10.844,9.282,10.7Z" transform="translate(36.751 5.804)" fill="#707070" stroke="#707070" stroke-width="1"/>
+    </g>
+    <g id="Icon_awesome-database" data-name="Icon awesome-database" transform="translate(910 1389.458)">
+      <path id="Icon_awesome-database-2" data-name="Icon awesome-database" d="M101.006,18.943V30.783c0,10.434-22.621,18.943-50.5,18.943S0,41.216,0,30.783V18.943C0,8.51,22.621,0,50.5,0S101.006,8.51,101.006,18.943Zm0,26.639V72.221c0,10.434-22.621,18.943-50.5,18.943S0,82.654,0,72.221V45.582c10.85,8.584,30.71,12.58,50.5,12.58S90.156,54.166,101.006,45.582Zm0,41.438v26.639c0,10.434-22.621,18.943-50.5,18.943S0,124.092,0,113.659V87.02C10.85,95.6,30.71,99.6,50.5,99.6S90.156,95.6,101.006,87.02Z" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>
